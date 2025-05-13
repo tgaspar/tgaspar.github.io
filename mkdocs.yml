@@ -19,6 +19,18 @@ theme:
     # - toc.integrate # show table of contents to navigation panel
     # - header.autohide
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: 'index.md'
+  - Personal projects:
+    - Overview: 'projects/index.md'
+    - 'projects/feeder.md'
+    # - 'projects/gate_control.md'
+
 extra:
   social:
     - icon: fontawesome/brands/github-alt
