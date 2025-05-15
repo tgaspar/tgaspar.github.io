@@ -19,16 +19,16 @@ The video was recorded back in 2017 when I completed the second version of the f
 It all started with an idea and a design in CAD software ...
 
 ![Automated cat feeder](media/old_solidworks.png){ width="500", loading=lazy }
-/// caption
+<!-- /// caption
 The CAD drawing of the first cat feeder as in 2018.
-///
+/// -->
 
 ... and ended as a device that reliably feeds my feline masters.
 
 ![Automated cat feeder](media/2025_standing.jpg){ width="500", loading=lazy }
-/// caption
+<!-- /// caption
 The cat feeder as it stands in 2025.
-///
+/// -->
 
 In this post I will present the story on how I built my own cat feeder, the reasoning behind some of the technical solutions that I adopted and all the things I learned while working on this project. Strap in and let's go!
 
