@@ -30,7 +30,12 @@ nav:
   - Home: 'index.md'
   - Personal projects:
     - Overview: 'projects/index.md'
-    - 'projects/feeder/index.md'
+    - Automated cat Feeder:
+      - 'projects/feeder/index.md'
+      - 'projects/feeder/requirements.md'
+      - 'projects/feeder/first_version.md'
+      - 'projects/feeder/second_version.md'
+      - 'projects/feeder/the_upgrade.md'
     # - 'projects/gate_control.md'
 
 extra_templates:
