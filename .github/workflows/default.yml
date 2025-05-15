@@ -18,8 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: mkdocs.yml
-          EXTRA_PACKAGES:
-            - 'build-base'
-            - 'pymdown-extensions'
+          EXTRA_PACKAGES: build-base,pymdown-extensions
 
           # REQUIREMENTS: mkdocs/requirements.txt
