@@ -37,6 +37,7 @@ nav:
       - 'projects/feeder/second_version.md'
       - 'projects/feeder/the_upgrade.md'
     # - 'projects/gate_control.md'
+  - About me: 'about_me/timotej_gaspar_cv_developer.md'
 
 extra_templates:
   - iframe.html
@@ -47,6 +48,6 @@ extra:
       link: https://github.com/tgaspar
       name: tgaspar
     - icon: fontawesome/brands/linkedin-in
-      link: www.linkedin.com/in/timotej-gaspar
+      link: https://linkedin.com/in/timotej-gaspar
       name: Timotej Gašpar
 generator: false # hide the line "Made with Material for MkDocs"

@@ -6,5 +6,5 @@ In short, the motivation could be stated as: *"Yes, this device does exist alrea
 
 Explore the projects below:
 
-- [Automated cat feeder](feeder.md)
+- [Automated cat feeder](feeder/index.md)
 - [Retrofitting a driveway gate with ESP](gate_control.md)
