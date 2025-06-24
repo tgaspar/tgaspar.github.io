@@ -4,9 +4,8 @@ theme:
   palette:
     primary: white
     accent: deep orange
-  icon:
-    logo: fontawesome/solid/t
-  favicon: images/t-solid.svg
+  logo: images/robo-art.svg
+  favicon: images/robo-art.svg
   features:
     # - navigation.instant # some features may not work properly with XHR
     - navigation.tracking # the URL changes with the active anchor
