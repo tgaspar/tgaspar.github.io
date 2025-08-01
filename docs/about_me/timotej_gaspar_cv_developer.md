@@ -3,9 +3,13 @@
 PhD in Robotics with a robust background in both academia and industry. Experienced in developing software and leading software development teams. An extremely quick learner and passionate about gaining new knowledge, both technical and soft skills. Strong sense of product oriented development with the ability to focus on creating tools for users, both internal and external. Track record of priority-driven project management through development and deployment of robot cells at client sites.  Very detail-oriented, focused on adding value and driven by shipping good products.
 
 **Expertise:** Robot software development, ROS/ROS 2, Motion planning, Robot control, Simulation, Software architecture, Project coordination, Team leadership, Technical documentation, Scrum master
+
 **Programming and development tools:** Python, Linux, ROS/ROS 2, MoveIt, Isaac Sim, MATLAB, Docker, Git, CI/CD,  C++
+
 **Work organization:** Figma, GitHub, Linear, Notion, Atlassian, Scrum
+
 **Other trainings:** Professional Scrum Master I, Professional Scrum Facilitation Skills, Python Asyncio
+
 **Languages:** Slovenian, English, Italian
 
 ## Professional Experience
